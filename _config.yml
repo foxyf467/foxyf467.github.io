@@ -1,15 +1,15 @@
 # Site settings
-title: A.P
+title: rune
 baseurl: "/ap"
-url: "https://kssim.github.io"
+url: "https://foxyf467.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
+  name: 이승주
+  desc: hello nice meet you
+  email: tototo070830@gmail.com
+  selfie:
 
 # social
 social:
