@@ -3,24 +3,19 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+Hello, my name is Seungju Lee.  
+I am a 20-year-old freshman (class of 2026) majoring in Enterprise Software at Konyang University. I am passionate about coding and game development.
 
 <br/>
 
 # Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+* Konyang University, Department of Enterprise Software (2026/03 ~ )
+  * Currently enrolled as an undergraduate student
+    * Learning the fundamentals of software development
+    * Learning collaboration workflows using GitHub
 
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+I am very interested in coding, and I especially enjoy studying how to develop open-world RPG games.  
+I enjoy learning new technologies and building things myself.
